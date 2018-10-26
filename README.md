@@ -6,7 +6,7 @@ Validate them dimensions!
 
 Add this line to your application's Gemfile:
 
-    gem 'paperclip-dimension-validator'
+    gem 'paperclip-dimension-validator-a-it'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install paperclip-dimension-validator
+    $ gem install paperclip-dimension-validator-a-it
 
 ## Usage
 
